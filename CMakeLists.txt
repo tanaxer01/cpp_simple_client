@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.16.3)
 project(NOTE_SYNC)
 
-add_executable(${PROJECT_NAME} main.cpp curlObj.cpp jsonParsing.cpp)
+add_executable(${PROJECT_NAME} main.cpp curlObj.cpp jsonParsing.cpp curlObj.h)
 
 include(ExternalProject)
 include("${CMAKE_SOURCE_DIR}/vendor/rapidjson.cmake")
