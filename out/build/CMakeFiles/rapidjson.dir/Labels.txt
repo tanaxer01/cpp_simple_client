@@ -1,0 +1,13 @@
+# Target labels
+ rapidjson
+# Source files and their labels
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/rapidjson
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/rapidjson.rule
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/rapidjson-complete.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-install.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-mkdir.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-download.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-update.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-patch.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-configure.rule
+/home/jpbrione/Projects/sync/out/build/vendor/rapidjson/src/rapidjson-stamp/rapidjson-build.rule

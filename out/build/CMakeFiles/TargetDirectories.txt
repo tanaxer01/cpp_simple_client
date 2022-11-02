@@ -1,0 +1,4 @@
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/rebuild_cache.dir
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/edit_cache.dir
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/rapidjson.dir
+/home/jpbrione/Projects/sync/out/build/CMakeFiles/NOTE_SYNC.dir

@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/NOTE_SYNC.dir/main.cpp.o CMakeFiles/NOTE_SYNC.dir/curlObj.cpp.o CMakeFiles/NOTE_SYNC.dir/jsonParsing.cpp.o  -o NOTE_SYNC  -lcurl 

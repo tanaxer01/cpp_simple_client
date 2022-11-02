@@ -1,0 +1,10 @@
+# Hashes of file build rules.
+b4489dcb400173f391b73c98941a8e9a CMakeFiles/rapidjson
+b7cfc3a480b3f0df5c364bc7d838b760 CMakeFiles/rapidjson-complete
+9e3b83261194a116a79a955747abfd56 vendor/rapidjson/src/rapidjson-stamp/rapidjson-build
+2266ae4a674528bb56bf3cfb4fe646d9 vendor/rapidjson/src/rapidjson-stamp/rapidjson-configure
+eaaacb6c165ceb404b954722346f79ce vendor/rapidjson/src/rapidjson-stamp/rapidjson-download
+3cb5a12bba97fb753d87adb666f8c514 vendor/rapidjson/src/rapidjson-stamp/rapidjson-install
+6ff1ef8d909c27f0e4a0bbd9cc803e39 vendor/rapidjson/src/rapidjson-stamp/rapidjson-mkdir
+c43bae771f613af94be3259eb4d0bfdc vendor/rapidjson/src/rapidjson-stamp/rapidjson-patch
+37798119e73baa3073361e34daec2cb9 vendor/rapidjson/src/rapidjson-stamp/rapidjson-update
