@@ -1,3 +1,9 @@
+.vscode
+.vscode/*
+
+./build
+./build/*
+
 ./out
 ./out/*
 # Prerequisites
